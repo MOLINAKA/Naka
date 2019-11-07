@@ -1,0 +1,41 @@
+html{
+    background-image:url(woodbackground5.jpg);
+    background-size: 100%;
+}
+#whereiamfromtitle{
+    font-family: Lobster Two;
+    font-size: 45px;
+    text-align:center;
+    color:  #006080;
+    margin:0;
+    padding:28px;
+    
+}
+.new1{
+    width: 15cm;
+    border:3px solid rgb(163, 109, 109);
+    border-radius: 5px;
+}
+#whereiamfromtext{
+    text-align: center;
+    margin: 20px;
+    margin-top: 50px;
+    font-family: Raleway;
+    font-weight: 600;
+    word-spacing: 0.05cm;
+    letter-spacing: 0.03cm;
+    color: rgb(110, 15, 70);
+}
+#iamfromsubtitle{
+    text-align: center;
+    margin-top: 40px;
+    font-family:Cinzel;
+    color: rgb(54, 88, 15);
+    font-size: 25px;
+}
+#bynaka{
+    text-align: center;
+    font-family:Cinzel;
+    color: rgb(54, 88, 15);
+    font-size: 16px;
+}

@@ -1,0 +1,38 @@
+Html{
+    Background-image: url(woodbackground5.jpg);
+    background-size: 100%;
+}
+#mywritingtitle{
+    font-family: Lobster Two;
+    font-size: 45px;
+    text-align:center;
+    color:  #006080;
+    margin:0;
+    padding:28px;
+}
+.new1{
+    width: 15cm;
+    border:3px solid rgb(163, 109, 109);
+    border-radius: 5px;
+}
+#howtoessay{
+    margin: 50px;
+    margin-left:20px;
+    text-align: center;
+    font-family: Cinzel;
+    color: rgb(54, 88, 15);
+    font-size: 20px;
+}
+.howtoessaytext{
+    padding:0;
+    margin-left: 30px;
+    margin-right:30px;
+    text-align: left;
+    text-indent: 30px;
+    font-family: Raleway;
+    font-weight: 600;
+    word-spacing: 0.05cm;
+    letter-spacing: 0.03cm;
+    color: rgb(110, 15, 70);
+    line-height: 1.5; 
+}
